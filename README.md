@@ -5,8 +5,8 @@
 ## ➡️ About Me
 
 - 👋 Hi, I'm Manav! I'm an ML/AI researcher/engineer and full-stack developer
-- 🎓 CS BS/MS @ University at Buffalo (3.70 GPA)
-- 📝 Co-author on two peer-reviewed papers — CHASE 2026 & Interspeech 2026
+- 🎓 CS BS/MS @ University at Buffalo
+- 📝 Co-author on two peer-reviewed papers
 - 💡 I like making scalable, secure, reliable, production-grade systems that solve real-world problems and have meaningful measurable impact
 
 ## ✅ Languages and Frameworks
